@@ -1,5 +1,13 @@
 'use strict';
 
+// random
+// random 2
+// random 3
+// random 4
+// random 5
+// random 6
+// random 8
+
 const rollDice = document.querySelector('.btn--roll');
 const hold = document.querySelector('.btn--hold');
 const newGame = document.querySelector('.btn--new');
