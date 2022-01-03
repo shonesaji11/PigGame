@@ -26,7 +26,7 @@ function initializeScore() {
 }
 
 function checkGameOver(playerNo, score) {
-    if (score >= 10) {
+    if (score >= 100) {
         // display a modal that says which player won and the score attained.
         modal.classList.remove('hidden');
         overlay.classList.remove('hidden');
