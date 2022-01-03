@@ -9,4 +9,7 @@ Simple betting game. The goal of the game is to reach a score of 100.
  
 ### Tech stacks 
 * Javascript, HTML5, CSS3
+
+### Link
+https://shonesaji11.github.io/PigGame/
   
